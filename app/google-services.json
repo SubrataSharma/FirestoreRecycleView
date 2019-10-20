@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216626688546",
+    "firebase_url": "https://mudrahomeandroid.firebaseio.com",
+    "project_id": "mudrahomeandroid",
+    "storage_bucket": "mudrahomeandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216626688546:android:14c0fec89dda5cb6",
+        "android_client_info": {
+          "package_name": "com.example.mudrahomeapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216626688546-mpohggm9oasm13ti7spcc7cavpfp4oe6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mudrahomeapplication",
+            "certificate_hash": "a0fa273b3ec84898f2f62e62bcac3fd8bd9538e6"
+          }
+        },
+        {
+          "client_id": "216626688546-4bi25oiuvgltju9kdje1gsnbf81kjfav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSgX5IuVRa8S7S8nC-ufm37RYsbO56MNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216626688546-4bi25oiuvgltju9kdje1gsnbf81kjfav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

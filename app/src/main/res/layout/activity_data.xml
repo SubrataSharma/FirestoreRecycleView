@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    tools:context=".DataActivity">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/edit_text1"/>
+    <EditText
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/edit_text1"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:inputType="textMultiLine"
+        android:id="@+id/edit_text2"/>
+    <Button
+        android:layout_centerInParent="true"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/edit_text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="send"
+        android:textSize="20dp"
+        android:id="@+id/button"/>
+
+</RelativeLayout>
